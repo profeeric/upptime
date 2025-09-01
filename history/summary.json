@@ -94,19 +94,19 @@
     "url": "https://doctrix.es",
     "icon": "https://icons.duckduckgo.com/ip3/doctrix.es.ico",
     "slug": "doctrix",
-    "status": "down",
-    "uptime": "76.69%",
-    "uptimeDay": "76.69%",
-    "uptimeWeek": "76.69%",
-    "uptimeMonth": "76.69%",
-    "uptimeYear": "76.69%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.60%",
+    "uptimeDay": "0.60%",
+    "uptimeWeek": "0.60%",
+    "uptimeMonth": "0.60%",
+    "uptimeYear": "0.60%",
+    "time": 678,
+    "timeDay": 678,
+    "timeWeek": 678,
+    "timeMonth": 678,
+    "timeYear": 678,
     "dailyMinutesDown": {
-      "2025-09-01": 0
+      "2025-09-01": 93
     }
   }
 ]

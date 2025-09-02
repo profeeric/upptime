@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 78,
-    "timeDay": 78,
-    "timeWeek": 78,
-    "timeMonth": 78,
-    "timeYear": 78,
+    "time": 80,
+    "timeDay": 80,
+    "timeWeek": 80,
+    "timeMonth": 80,
+    "timeYear": 80,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 81,
-    "timeDay": 81,
-    "timeWeek": 81,
-    "timeMonth": 81,
-    "timeYear": 81,
+    "time": 66,
+    "timeDay": 66,
+    "timeWeek": 66,
+    "timeMonth": 66,
+    "timeYear": 66,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 397,
-    "timeDay": 397,
-    "timeWeek": 397,
-    "timeMonth": 397,
-    "timeYear": 397,
+    "time": 250,
+    "timeDay": 250,
+    "timeWeek": 250,
+    "timeMonth": 250,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   },
   {
@@ -95,18 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/doctrix.es.ico",
     "slug": "doctrix",
     "status": "up",
-    "uptime": "0.60%",
-    "uptimeDay": "0.60%",
-    "uptimeWeek": "0.60%",
-    "uptimeMonth": "0.60%",
-    "uptimeYear": "0.60%",
-    "time": 678,
-    "timeDay": 678,
-    "timeWeek": 678,
-    "timeMonth": 678,
-    "timeYear": 678,
-    "dailyMinutesDown": {
-      "2025-09-01": 93
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 850,
+    "timeDay": 850,
+    "timeWeek": 850,
+    "timeMonth": 850,
+    "timeYear": 850,
+    "dailyMinutesDown": {}
   }
 ]
